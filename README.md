@@ -1,8 +1,8 @@
 # avaj_launcher
-In subject this project I need to implement an aircraft simulation program based on the class diagram provided
+In subject of this project I had to implement an aircraft simulation program based on the class diagram that was provided
 to me. All classes are required to be implemented respecting every detail provided
-in the diagram. Feel free to add more classes or include additional attributes if i think
-it is necessary.
+in the diagram. I might add more classes or include additional attributes if I considered
+them to be necessary.
 
 
 In this project it is necessary to implement Observer, Singleton and Factory design patterns.
